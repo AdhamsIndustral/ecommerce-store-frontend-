@@ -1,3 +1,8 @@
+<style>
+  body {
+    background-color: #f0f4f8 !important;
+  }
+</style>
 # 🛍️ awuduchatha Digital Storefront
 
 This repository contains high-quality assets and professional descriptions for our product catalog, featuring premium apparel and footwear.
