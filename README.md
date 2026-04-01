@@ -1,30 +1,40 @@
 <style>
   body {
-    background-color: #fdf5e6 !important;
+    background-color: #ffffff !important;
+    color: #333 !important;
   }
+  .markdown-body h1, .markdown-body h2 { color: #2c3e50; }
 </style>
+
 # 🛍️ awuduchatha Digital Storefront
 
-This repository contains high-quality assets and professional descriptions for our product catalog, featuring premium apparel and footwear.
+Welcome to our official catalog. We offer premium apparel and footwear with a focus on quality and modern style.
 
-## 📂 Catalog Categories
-* *Ladies Wear:* Trendy tops, dresses, and sets.
-* Price:GHC150
+## ✨ New Arrivals
+Below are our featured pieces for this season. To order, click the WhatsApp link under the category.
 
-* *Men’s Tops & Shirts:* Premium button-downs and casual shirts.
-* Price:GHC100
-
-* *Denim & Jeans:* Durable and stylish men's denim.
-* Price:GHC120
-* (https://wa.me/233257405078
-* ## ✨ Featured Items
-![Navy Sneaker Shirt](catalog/men-wear/mens-sneaker-print-shirt-navy.jpeg)
-![Ladies Trendy Top](catalog/ladies-wear/ladies-floral-top.jpg)
-
-## 🚀 Marketing & Operations
-* *Centralized Assets:* High-resolution images for social media and Shopify.
-* *Product Data:* Professional descriptions for e-commerce listings.
-* *Brand Identity:* Managed catalog for the *awuduchatha* brand.
+| Green Linen Set | Blue Embellished Set |
+| :---: | :---: |
+| ![Green Linen Set](https://raw.githubusercontent.com/AdhamsIndustrial/ecommerce-store-frontend-/main/catalog/ladies-wear/green-linen-set.png) | ![Blue Embellished Set](https://raw.githubusercontent.com/AdhamsIndustrial/ecommerce-store-frontend-/main/catalog/ladies-wear/blue-jeweled-set.png) |
 
 ---
-Managed by AdhamsIndustria
+
+## 📂 Catalog Categories
+
+### 👗 Ladies Wear
+*Trendy tops, dresses, and high-fashion sets.*
+* **Price:** GHC 150
+* 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
+
+### 👔 Men's Tops & Shirts
+*Premium button-downs and casual shirts.*
+* **Price:** GHC 100
+* 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
+
+### 👖 Denim & Jeans
+*Durable and stylish men's denim.*
+* **Price:** GHC 120
+* 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
+
+---
+*Managed by AdhamsIndustrial*
