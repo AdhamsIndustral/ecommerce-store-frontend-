@@ -15,7 +15,7 @@ Below are our featured pieces for this season. To order, click the WhatsApp link
 
 | Green Linen Set | Blue Embellished Set |
 | :---: | :---: |
-| ![Green Linen Set](https://raw.githubusercontent.com/AdhamsIndustrial/ecommerce-store-frontend-/main/catalog/ladies-wear/green-linen-set.png) | ![Blue Embellished Set](https://raw.githubusercontent.com/AdhamsIndustrial/ecommerce-store-frontend-/main/catalog/ladies-wear/blue-jeweled-set.png) |
+| ![Green Linen Set](https://raw.githubusercontent.com/AdhamsIndustrial/ecommerce-store-frontend-/main/catalog/ladies-wear/green-linen-set.jpeg) | ![Blue Embellished Set](https://raw.githubusercontent.com/AdhamsIndustrial/ecommerce-store-frontend-/main/catalog/ladies-wear/blue-jeweled-set.jpeg) |
 
 ---
 
