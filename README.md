@@ -16,7 +16,7 @@ This repository contains high-quality assets and professional descriptions for o
 * https//wa.me/233257405078
 * *Denim & Jeans:* Durable and stylish men's denim.
 * Price:GHC120
-  https//wa.me/233257405078
+* https//wa.me/233257405078
 
 ## 🚀 Marketing & Operations
 * *Centralized Assets:* High-resolution images for social media and Shopify.
