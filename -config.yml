@@ -1,4 +1,8 @@
 yaml
-theme:awuduchatha Digital Storefront
-description:High-quality assets and professional
-description for our product catalog
+theme:jekyll-theme-minimal
+title:Awuduchatha DigitalStorefront
+description:High-quality assets for our product catalog
+
+# This tell GitHub which colour to use for links and highlights
+#(we will add the background coluor in the next step)
+
