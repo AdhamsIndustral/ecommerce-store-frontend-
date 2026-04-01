@@ -5,10 +5,13 @@ This repository contains high-quality assets and professional descriptions for o
 ## 📂 Catalog Categories
 * *Ladies Wear:* Trendy tops, dresses, and sets.
 * Price:GHC150
+* order via whatsapp:http//wa.me/233257405078
 * *Men’s Tops & Shirts:* Premium button-downs and casual shirts.
 * Price:GHC100
+* order via whatsapp:http//wa.me/233257405078
 * *Denim & Jeans:* Durable and stylish men's denim.
 * Price:GHC120
+* order via whatsapp:http//wa.me/233257405078
 
 ## 🚀 Marketing & Operations
 * *Centralized Assets:* High-resolution images for social media and Shopify.
