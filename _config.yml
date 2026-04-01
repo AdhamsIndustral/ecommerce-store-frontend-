@@ -1,5 +1,4 @@
 yaml
-remote_theme:pages-themes/minimal@v0.2.0
-title:Awuduchatha DigitalStorefront
-description:High-quality assets for our product catalog
+
+theme:jekyll-theme-slate
 
