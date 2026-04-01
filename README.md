@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: #f0f4f8 !important;
+    background-color: #fdf5e6 !important;
   }
 </style>
 # 🛍️ awuduchatha Digital Storefront
