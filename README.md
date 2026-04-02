@@ -24,10 +24,10 @@
 | Featured Style | Our Full Collection |
 | :---: | :---: |
 | ![White Slides](catalog/footwear/white-luxury-slides.png) | ![Collection](catalog/footwear/sandal-color-collection.png) |
-| ![White Slides](catalog/footwear/white-luxury-slides.png) | ![Collection](catalog/footwear/sandal-color-collection.png) |
+
 ### 📂 Footwear Details
-* **Luxury Slides (White):** GHC 120
-* **Color Collection (Taupe, Cream, Black, Green):** GHC 110
+* **Luxury Slides (White):** GHC 90
+* **Color Collection (Taupe, Cream, Black, Green):** GHC 70
 * 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
 
 ---
