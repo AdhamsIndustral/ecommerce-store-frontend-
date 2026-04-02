@@ -5,13 +5,18 @@
 </style>
 # 🛍️ awuduchatha Digital Storefront
 ## ✨ New Arrivals
-| Green Linen Set | Blue Embellished Set |
-| :---: | :---: |
-| ![Green Set](catalog/ladies-wear/green-linen-set.png)|![Blue Set](catalog/ladies-wear/blue-jeweled-set.png) |
+## ✨ New Arrivals
+| Green Linen Set | Blue Embellished Set | Red Cargo Pants |
+| :---: | :---: | :---: |
+| ![Green Set](catalog/ladies-wear/green-linen-set.png) | ![Blue Set](catalog/ladies-wear/blue-jeweled-set.png) | ![Red Pants](catalog/ladies-wear/red-cargo-pants.png) |
 ---
 ## 📂 Catalog Categories
 ### 👗 Ladies Wear
 * **Price:** GHC 150
 * 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
 ---
-*Managed by AdhamsIndustria*
+  ### 👖 Denim & Cargo
+* **Price:** GHC 90
+* 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
+---
+*Managed by AdhamsIndustrial*
