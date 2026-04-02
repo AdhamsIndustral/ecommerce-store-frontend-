@@ -7,7 +7,7 @@
 ## ✨ New Arrivals
 | Green Linen Set | Blue Embellished Set |
 | :---: | :---: |
-| ![Green Set](catalog/ladies-wear/green-linen-set.png) | ![Blue Set](catalog/ladies-wear/blue-jeweled-set.png) |
+| ![Green Set](catalog/ladies-wear/green-linen-set.png)|![Blue Set](catalog/ladies-wear/blue-jeweled-set.png) |
 ---
 ## 📂 Catalog Categories
 ### 👗 Ladies Wear
