@@ -8,7 +8,8 @@
 ## ✨ New Arrivals
 | Green Linen Set | Blue Embellished Set | Red Cargo Pants |
 | :---: | :---: | :---: |
-| ![Green Set](catalog/ladies-wear/green-linen-set.png) | ![Blue Set](catalog/ladies-wear/blue-jeweled-set.png) | ![Red Pants](catalog/ladies-wear/red-cargo-pants.png) |
+| ![Green Set](catalog/ladies-wear/green-linen-set.png) | ![Blue Set](catalog/ladies-wear/blue-jeweled-set.png) | 
+![Red Pants](catalog/ladies-wear/red-cargo-pants.png) |
 ---
 ## 📂 Catalog Categories
 ### 👗 Ladies Wear
@@ -18,5 +19,16 @@
   ### 👖 Denim & Cargo
 * **Price:** GHC 90
 * 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
+---
+## 👡 Sandals & Footwear
+| Featured Style | Our Full Collection |
+| :---: | :---: |
+| ![White Slides](catalog/footwear/white-luxury-slides.png) | ![Collection](catalog/footwear/sandal-color-collection.png) |
+
+### 📂 Footwear Details
+* **Luxury Slides (White):** GHC 120
+* **Color Collection (Taupe, Cream, Black, Green):** GHC 110
+* 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
+
 ---
 *Managed by AdhamsIndustrial*
