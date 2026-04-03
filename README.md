@@ -12,13 +12,8 @@
 ![Red Pants](catalog/ladies-wear/red-cargo-pants.png) |
 ---
 ## 📂 Catalog Categories
-### 👗 Ladies Wear| Mustard | Lilac | White | Black |
-| :---: | :---: | :---: | :---: |
-| ![Mustard](catalog/ladies-wear/varsity-short-mustard.png) | ![Lilac](catalog/ladies-wear/varsity-short-lilac.png) | ![White](catalog/ladies-wear/varsity-short-white.png) | ![Black](catalog/ladies-wear/varsity-short-black.png) |
-*(Please specify color and size when ordering)*
-📲 [**Order via WhatsApp**](https://wa.me/233257405078)
-| **GHC 50** | **GHC 50** | **GHC 50** | **GHC 50** |
-
+### 👗 Ladies Wear| 
+| ![Mustard](catalog/ladies-wear/varsity-short-mustard.png) | 
 * **Price:** GHC 150
 * 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
 ---
