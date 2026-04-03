@@ -23,7 +23,7 @@
 ## 👡 Sandals & Footwear
 | Featured Style | Our Full Collection |
 | :---: | :---: |
-| ![White Slides](catalog/footwear/white-luxury-slides.png) | ![Collection](catalog/footwear/sandal-color-collection.png) |
+| ![White Slides](catalog/footwear/white-luxury-slides.png) | !
 
 ### 📂 Footwear Details
 * **Luxury Slides (White):** GHC 90
