@@ -21,15 +21,19 @@
 * 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
 ---
 ## 👡 Sandals & Footwear
-| Featured Style | Emerald Star Sandals |
+| Nude & Gold Buckle | Emerald Star Sandals |
 | :---: | :---: |
-| ![White Slides](catalog/footwear/white-luxury-slides.png) | ![Emerald Sandals](catalog/footwear/emerald-star-sandal.png)
-|**Price:**GHC60|📲 [**Order via WhatsApp**](https://wa.me/233257405078)
+| ![Nude Slides](catalog/footwear/luxury-slides-gold-buckle.png) | ![Emerald](catalog/footwear/emerald-star-sandals.png) |
+| **GHC 130** | **GHC 110** |
+---
+## 🏀 Varsity Collection
+| Mustard | Lilac | White | Black |
+| :---: | :---: | :---: | :---: |
+| ![Mustard](catalog/varsity/varsity-short-mustard.png) | ![Lilac](catalog/varsity/varsity-short-lilac.png) | ![White](catalog/varsity/varsity-short-white.png) | ![Black](catalog/varsity/varsity-short-black.png) |
+| **GHC 110** | **GHC 110** | **GHC 110** | **GHC 110** |
 
-### 📂 Footwear Details
-* **Luxury Slides (White):** GHC 90
-* **Color Collection (Taupe, Cream, Black, Green):** GHC 70
-* 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
+📲 [**Order via WhatsApp**](https://wa.me/233257405078)
+*(Please specify color and size when ordering)*
 
 ---
 *Managed by AdhamsIndustrial*
