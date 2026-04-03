@@ -23,7 +23,7 @@
 ## 👡 Sandals & Footwear
 | Nude & Gold Buckle | Emerald Star Sandals |
 | :---: | :---: |
-| ![Nude Slides](catalog/footwear/luxury-slides-gold-buckle.png) | ![Emerald](catalog/footwear/emerald-star-sandals.png) |
+| ![Nude Slides](catalog/footwear/white-luxury-slide.png) | ![Emerald](catalog/footwear/emerald-star-sandals.png) |
 | **GHC 130** | **GHC 110** |
 ---
 ## 🏀 Varsity Collection
