@@ -23,8 +23,8 @@
 ## 👡 Sandals & Footwear
 | Featured Style | Emerald Star Sandals |
 | :---: | :---: |
-| ![White Slides](catalog/footwear/white-luxury-slides.png) | ![Emerald Sandals](catalog/footwear/emerald-star-sandal.png)|**Price:**GHC60|
-📲 [**Order via WhatsApp**](https://wa.me/233257405078)
+| ![White Slides](catalog/footwear/white-luxury-slides.png) | ![Emerald Sandals](catalog/footwear/emerald-star-sandal.png)
+|**Price:**GHC60|📲 [**Order via WhatsApp**](https://wa.me/233257405078)
 
 ### 📂 Footwear Details
 * **Luxury Slides (White):** GHC 90
