@@ -12,7 +12,13 @@
 ![Red Pants](catalog/ladies-wear/red-cargo-pants.png) |
 ---
 ## 📂 Catalog Categories
-### 👗 Ladies Wear
+### 👗 Ladies Wear| Mustard | Lilac | White | Black |
+| :---: | :---: | :---: | :---: |
+| ![Mustard](catalog/ladies-wear/varsity-short-mustard.png) | ![Lilac](catalog/ladies-wear/varsity-short-lilac.png) | ![White](catalog/ladies-wear/varsity-short-white.png) | ![Black](catalog/ladies-wear/varsity-short-black.png) |
+*(Please specify color and size when ordering)*
+📲 [**Order via WhatsApp**](https://wa.me/233257405078)
+| **GHC 50** | **GHC 50** | **GHC 50** | **GHC 50** |
+
 * **Price:** GHC 150
 * 📲 [**Click here to Order via WhatsApp**](https://wa.me/233257405078)
 ---
@@ -26,14 +32,9 @@
 | ![Nude Slides](catalog/footwear/white-luxury-slide.png) | ![Emerald](catalog/footwear/emerald-star-sandals.png) |
 | **GHC 130** | **GHC 110** |
 ---
-## 🏀 Varsity Collection
-| Mustard | Lilac | White | Black |
-| :---: | :---: | :---: | :---: |
-| ![Mustard](catalog/varsity/varsity-short-mustard.png) | ![Lilac](catalog/varsity/varsity-short-lilac.png) | ![White](catalog/varsity/varsity-short-white.png) | ![Black](catalog/varsity/varsity-short-black.png) |
-| **GHC 110** | **GHC 110** | **GHC 110** | **GHC 110** |
-
-📲 [**Order via WhatsApp**](https://wa.me/233257405078)
-*(Please specify color and size when ordering)*
-
 ---
-*Managed by AdhamsIndustrial*
+Managed by AdhamsIndustrial
+
+
+
+
